@@ -1,0 +1,1 @@
+var OutboxApp = angular.module('OutboxApp',[]);
