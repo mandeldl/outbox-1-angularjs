@@ -1,1 +1,1 @@
-var OutboxApp = angular.module('OutboxApp',[]);
+var app = angular.module('OutboxApp',[]);
